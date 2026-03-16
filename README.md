@@ -10,3 +10,5 @@ Practicals HTML:
 [Practical 3](https://sboluda.github.io/R_Studio_Works/P3_exercises.html)
 
 Shiny Apps:
+
+[Cars app](https://sergiboluda.shinyapps.io/test_app/)
