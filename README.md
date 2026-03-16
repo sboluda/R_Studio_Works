@@ -1,5 +1,7 @@
 # R_Studio_Works
-Reports either HTML or Rmd with all my R Studio Projects
+Reports either HTML or Rmd with all my R Studio Projects + ShinyApps.
+
+Practicals HTML:
 
 [Practical 1](https://sboluda.github.io/R_Studio_Works/P1_exercises.html)
 
@@ -7,3 +9,4 @@ Reports either HTML or Rmd with all my R Studio Projects
 
 [Practical 3](https://sboluda.github.io/R_Studio_Works/P3_exercises.html)
 
+Shiny Apps:
